@@ -1,5 +1,0 @@
-C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/27/27-3-simulation-of-the-company/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/27/27-3-simulation-of-the-company/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/27/27-3-simulation-of-the-company/out/build/x64-Debug/src/CMakeFiles/27-3-simulation-of-the-company.dir
-C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/27/27-3-simulation-of-the-company/out/build/x64-Debug/src/CMakeFiles/edit_cache.dir
-C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/27/27-3-simulation-of-the-company/out/build/x64-Debug/src/CMakeFiles/rebuild_cache.dir
